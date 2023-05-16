@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>470936222817-8j9bs4jgcmoektjcfcqe36tmupriuv8k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.470936222817-8j9bs4jgcmoektjcfcqe36tmupriuv8k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCU7yaUMr14KxhRDJu54a3iT-UOXrIHzF4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>470936222817</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterPrueba1000Tutoingles</string>
+	<key>PROJECT_ID</key>
+	<string>proyecto-fluterfire</string>
+	<key>STORAGE_BUCKET</key>
+	<string>proyecto-fluterfire.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:470936222817:ios:ec86c7b56b804096c3be20</string>
+</dict>
+</plist>
